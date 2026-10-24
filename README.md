@@ -8,6 +8,7 @@ Thermodynamics Coding Assignment for Digital Assignment 3 Submission
 <img width="2368" height="1387" alt="Plots" src="https://github.com/user-attachments/assets/75dbc6ec-61e9-490f-93e9-00b9eb85694f" />
 
 
+## RESULTS
 
 <img width="321" height="169" alt="image" src="https://github.com/user-attachments/assets/62774a7c-ed5e-4057-8fac-e49e4acca522" />
 
